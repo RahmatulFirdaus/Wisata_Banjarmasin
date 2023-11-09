@@ -1,0 +1,29 @@
+
+.jumbotron{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #ffffffbe;
+}
+.body{
+    min-height: 20000px;
+}
+.img{
+    width: 250px;
+    height: 250px;
+    border-radius: 45%;
+    display: block; 
+            margin: auto;
+    border: 3px solid rgba(0, 0, 0, 0.74);
+}
+.footer-bottom{
+    background-color: rgb(255, 255, 255);
+}
+.footer-bottom p{
+    color: rgb(0, 0, 0);
+}
+.social-media-img img{
+    width: 50px;
+}
+.social-media-img img:hover{
+    opacity: 80%;
+}
